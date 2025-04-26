@@ -1,0 +1,19 @@
+// Comment at the start
+"ScriptToolsInstaller": {             //comment1 in line
+   "Repo": {
+      "GitHost": "github.com",    //comment2 in line
+      "GitUser": "pVengher",
+      "RepoName": "ScriptingTemplate",
+      "MyUrl": "https://github.com/pVengher/pv-test-repo/edit/main/f1.file1"    // comment 3 in file
+      "Branch": "main",
+      "Version": "1.0.0",
+      "TokenFile": "C:\\secrets\\install-tool.auth.json"
+   },
+   "Tools": {
+      "install-tool": {
+          "Description": "Install tool by name",
+          "EntryPoint": "install-tool.cmd"
+      }
+  }
+}
+/* End comment */
