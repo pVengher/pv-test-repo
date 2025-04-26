@@ -9,6 +9,10 @@
       "Version": "1.0.0",
       "TokenFile": "C:\\secrets\\install-tool.auth.json"
    },
+/* 
+   multiline comment 
+   End multiline comment 
+*/  
    "Tools": {
       "install-tool": {
           "Description": "Install tool by name",
